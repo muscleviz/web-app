@@ -18,3 +18,6 @@ weakness.
 Checkout out the current [prototype](https://muscleviz.github.io/web-app/).
 
 Now available to download for free on app stores for [iOS](https://itunes.apple.com/us/app/muscleviz/id1449848702) and [android](https://play.google.com/store/apps/details?id=io.jwittenbach.medviz)!
+
+
+Full informaion available [here](https://github.com/jwittenbach/muscle-viz) while the code is transferred from a personal github page to a github organization.
