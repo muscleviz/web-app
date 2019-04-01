@@ -15,7 +15,7 @@ across patients with similar conditions. The tool could also be useful
 if saved in the patient's chart, thus allowing for a time series of 
 weakness.
 
-Checkout out the current [prototype](https://muscleviz.github.io/web-app/).
+Checkout out the current [prototype](https://muscleviz.github.io/).
 
 Now available to download for free on app stores for [iOS](https://itunes.apple.com/us/app/muscleviz/id1449848702) and [android](https://play.google.com/store/apps/details?id=io.jwittenbach.medviz)!
 
